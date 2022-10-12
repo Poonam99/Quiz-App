@@ -1,0 +1,22 @@
+.icon {
+    height: 25px;
+    width: 25px;
+}
+
+.quiz-container {
+    border: 2px solid black;
+    margin: 50px;
+    padding: 10px;
+}
+
+.Quiz {
+    display: grid;
+    grid-template-columns: 11fr 1fr;
+    margin: 10px;
+}
+
+.options {
+    display: grid;
+    margin: 10px;
+    padding: 10px;
+}

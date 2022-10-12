@@ -13,7 +13,7 @@ const Navbar = () => {
                 </div>
                 <div className='route-container'>
                     <NavLink to={'/home'}>Topic</NavLink>
-                    <NavLink to={'/Quiz-Topics'}>Quiz items</NavLink>
+                    <NavLink to={'/statistics'}>Statistics</NavLink>
                     <NavLink to={'/blog'}>Blog</NavLink>
                 </div>
             </nav>
