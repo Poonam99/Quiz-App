@@ -2,7 +2,7 @@
     width: 100%;
     display: flex;
     justify-content: space-between;
-    background-color: rgb(125, 205, 216);
+    background-color: plum;
     align-items: center;
     padding: 10px 0;
 
@@ -20,9 +20,11 @@
 }
 
 .title-container {
+
     display: flex;
     /* justify-content: center; */
     align-items: center;
+
 
 }
 
@@ -30,4 +32,10 @@
     text-decoration: none;
     margin-left: 20px;
     padding: 10px;
+}
+
+.title-container img {
+    width: 25px;
+    height: 20px;
+
 }

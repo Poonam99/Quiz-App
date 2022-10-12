@@ -1,6 +1,7 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import img from '../quiz img.jpg';
+import './Nav.css'
 
 const Navbar = () => {
     return (
