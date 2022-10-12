@@ -1,5 +1,5 @@
 - Quiz Show App
-- Live Link: 
+- Live Link: https://show-quiz-app.netlify.app/
 - React Router
 - Toast
 - Rechart
