@@ -1,0 +1,33 @@
+.nav-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(125, 205, 216);
+    align-items: center;
+    padding: 10px 0;
+
+}
+
+.route-container {
+    margin: 25px;
+    padding: 25px;
+}
+
+.route-container a {
+    text-decoration: none;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.title-container {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+
+}
+
+.NavLinks a {
+    text-decoration: none;
+    margin-left: 20px;
+    padding: 10px;
+}
